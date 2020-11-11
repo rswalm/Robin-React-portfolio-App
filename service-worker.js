@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Robin-React-portfolio-App/precache-manifest.7097c8027f97e60cf4d3826ff380bd8c.js"
+  "/Robin-React-portfolio-App/precache-manifest.dcbdd4c02c90d49b62d222381cb42a66.js"
 );
 
 self.addEventListener('message', (event) => {
