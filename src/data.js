@@ -18,14 +18,14 @@ export default
             id: 1,
             title: 'Progressive Budget',
             service: 'A Program to Track your finances',
-            imageSrc: "./2.png",
+            imageSrc: "./2.PNG",
             url: ' https://github.com/rswalm/RobindBudgetTracker'
         },
         {
             id: 2,
             title: 'Flyjet',
             service: 'Search for Flights, flight times, and tickets',
-            imageSrc: "./3.png",
+            imageSrc: "./3.PNG",
             url: 'https://github.com/rswalm/flightmaster.git'
         },
 
@@ -33,28 +33,28 @@ export default
             id: 3,
             title:'Employee Management System', 
              service:'manage departments, roles, and employees', 
-             imageSrc:"./4.png",
+             imageSrc:"./4.PNG",
              url:'https://github.com/rswalm/RobinCMDApplication.git'
             },
             {
                 id: 4,
                 title: 'Team Profile Generator',
                 service: 'Gather Information About Team Memebers',
-                imageSrc: "./5.png",
+                imageSrc: "./5.PNG",
                 url: 'https://github.com/rswalm/RobinProfileGenerator.git'
             },
             { 
                 id: 5,
                 title: 'Reverse Engineering Authentication',
                 service: 'Reverse Engineering Authentication',
-                imageSrc: "./6.png",
+                imageSrc: "./6.PNG",
                 url: 'https://docs.google.com/document/d/1lTyQmm_LLEYCCLHv27Y-CWFfY_0fDj-Bz4ejQzi4CO8/edit?usp=sharing'
             },
             {
                 id: 6,
                 title: 'Note Taker',
                 service: 'home',
-                imageSrc: "./7.png",
+                imageSrc: "./7.PNG",
                 url: 'https://robinnotetracker2.herokuapp.com/'
            }
 
